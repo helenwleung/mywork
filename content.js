@@ -184,7 +184,7 @@ const CONTENT = {
     eyebrow:  { en: 'About Me', zh: '关于我' },
     headline: { en: '', zh: '' },
     tagline: {
-      en: "Hi, I'm Helen! I'm a materials scientist now working in life sciences strategy consulting. During my PhD, my research advanced the next generation of nano-engineered drug modalities through the lens of electron microscopy. I love the science but am equally engaged with the commercial side of innovation.",
+      en: "Hi, I'm Helen! I'm a materials scientist specialising in analytical characterisation techniques, specifically, electron microscopy. Through my research, I have developed novel workflows to show how 'big-data' experiments can be harnessed into decision-ready outputs for biopharma R&D (at GSK) and materials synthesis (at Altrove). I now work in biopharma R&D strategy consulting at L.E.K.",
       zh: '你好！我是Helen。我是华裔,来自英国。牛津大学材料工程硕士，剑桥大学材料工程博士。致力于促进中西方生命科学领域的交流与合作。'
     },
     cards: [
