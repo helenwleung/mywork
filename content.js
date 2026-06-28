@@ -125,7 +125,7 @@ const CONTENT = {
         }
       },
       {
-        tag:        { en: 'Pro Bono Work',   zh: '临床'   },
+        tag:        { en: 'AI for Health Equity',   zh: '临床'   },
         title:      { en: 'Clinical Development', zh: '临床开发' },
         sublabel:   { en: 'Getting the right drugs to the right people', zh: '性别健康差距 · 可解释AI · 女性健康科技' },
         badgeAbbr:  'LCFI',
@@ -133,7 +133,7 @@ const CONTENT = {
         badgeImg:   'logos/lcfi.png.jpeg',
         body: {
           en: `
-            <p class="card-text">Moving to less technical (but equally important!) work, I am a Fellow at LCFI (Leverhulme Centre for the Future of Intelligence, Cambridge) where I work with academic and industry contacts to close the health equity gap e.g., by hosting founder events to help startups find people/funding.</p>
+            <p class="card-text">During my time at Cambridge, I was a Fellow at LCFI (Leverhulme Centre for the Future of Intelligence, Cambridge) where I worked with academic and industry contacts to close the health equity gap. I was the founder of 'FemTech and the Women's Health Gap' thought leadership event, held at Cambridge Tech Week 2024, where I hosted discussions on de-risking AI-exacerbated inequality to health outcomes. In addition, I authored articles on how to de-risk bias in AI-enabled ultra-personalised medicine approaches by using explainable AI frameworks for LLMs (using chain of thought) to benchmark medical AI models.</p>
             <div class="pill-row">
               <span class="pill">Gender Health Gap</span>
               <span class="pill">Explainable AI</span>
