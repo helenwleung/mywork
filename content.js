@@ -133,7 +133,7 @@ const CONTENT = {
         badgeImg:   'logos/lcfi.png.jpeg',
         body: {
           en: `
-            <p class="card-text">During my time at Cambridge, I was a Fellow at LCFI (Leverhulme Centre for the Future of Intelligence, Cambridge) where I worked with academic and industry contacts to close the health equity gap. I was the founder of 'FemTech and the Women's Health Gap' thought leadership event, held at Cambridge Tech Week 2024, where I hosted discussions on de-risking AI-exacerbated inequality to health outcomes. In addition, I authored articles on how to de-risk bias in AI-enabled ultra-personalised medicine approaches by using explainable AI frameworks for LLMs (using chain of thought) to benchmark medical AI models.</p>
+            <p class="card-text">During my time at Cambridge, I was a Fellow at LCFI (Leverhulme Centre for the Future of Intelligence, Cambridge) where I worked with academic and industry contacts to close the health equity gap. I was the founder of 'FemTech and the Women's Health Gap' thought leadership event, held at Cambridge Tech Week 2024, where I hosted discussions on de-risking AI-exacerbated inequality to health outcomes. In addition, I developed internal thought pieces on how to de-risk bias in AI-enabled ultra-personalised medicine approaches by using explainable AI frameworks for LLMs (using chain of thought) to benchmark medical AI models.</p>
             <div class="pill-row">
               <span class="pill">Gender Health Gap</span>
               <span class="pill">Explainable AI</span>
