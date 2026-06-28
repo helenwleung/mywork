@@ -254,12 +254,12 @@ const CONTENT = {
             <!-- ── INVITED TALKS / WEBINARS ───────────────────── -->
             <h2 class="section-subheading">Invited Talks &amp; Webinars</h2>
             <ul class="talks-list">
-              <li><a href="https://www.monash.edu/__data/assets/pdf_file/0006/4141680/HWL-Seminar.pdf" target="_blank" rel="noopener">'Multi-dimensional electron diffraction of pharmaceuticals'</a>, Monash Centre for Electron Microscopy, Australia, October 2025</li>
-              <li>'4D-STEM and 3D Electron Diffraction in Pharmaceutical Materials', Workshop on the Applications of 4D-STEM, University of Leeds, September 2025</li>
-              <li><a href="https://www.youtube.com/watch?v=VSTNDJBy_ds" target="_blank" rel="noopener">'3D-ED and 4D-STEM as complementary acquisition modalities'</a>, Invited Webinar, Quantum Detectors, March 2025</li>
-              <li>'MicroED in drug discovery and development: challenges and opportunities', Industrial Cryo-Electron Microscopy Pharmaceutical Consortium, Cambridge, UK, October 2024</li>
-              <li>'Scanning Nanobeam Electron Diffraction with 3D Electron Diffraction to Investigate Crystal Defects', Microscopy and Microanalysis Conference, Cleveland, USA, September 2024</li>
-              <li>'A multi-pronged approach incorporating 3D Electron Diffraction for the structure solution of an indomethacin polymorph', International Microscopy Congress, Busan, Korea, September 2023</li>
+              <li><em><a href="https://www.monash.edu/__data/assets/pdf_file/0006/4141680/HWL-Seminar.pdf" target="_blank" rel="noopener">'Multi-dimensional electron diffraction of pharmaceuticals'</a></em>, Monash Centre for Electron Microscopy, Australia, October 2025</li>
+              <li><em>'4D-STEM and 3D Electron Diffraction in Pharmaceutical Materials'</em>, Workshop on the Applications of 4D-STEM, University of Leeds, September 2025</li>
+              <li><em><a href="https://www.youtube.com/watch?v=VSTNDJBy_ds" target="_blank" rel="noopener">'3D-ED and 4D-STEM as complementary acquisition modalities'</a></em>, Invited Webinar, Quantum Detectors, March 2025</li>
+              <li><em>'MicroED in drug discovery and development: challenges and opportunities'</em>, Industrial Cryo-Electron Microscopy Pharmaceutical Consortium, Cambridge, UK, October 2024</li>
+              <li><em>'Scanning Nanobeam Electron Diffraction with 3D Electron Diffraction to Investigate Crystal Defects'</em>, Microscopy and Microanalysis Conference, Cleveland, USA, September 2024</li>
+              <li><em>'A multi-pronged approach incorporating 3D Electron Diffraction for the structure solution of an indomethacin polymorph'</em>, International Microscopy Congress, Busan, Korea, September 2023</li>
             </ul>`,
           zh: `
             <!-- ── PUBLICATIONS SUBHEADING ────────────────────── -->
@@ -308,12 +308,12 @@ const CONTENT = {
             <!-- ── INVITED TALKS / WEBINARS ───────────────────── -->
             <h2 class="section-subheading">Invited Talks &amp; Webinars</h2>
             <ul class="talks-list">
-              <li><a href="https://www.monash.edu/__data/assets/pdf_file/0006/4141680/HWL-Seminar.pdf" target="_blank" rel="noopener">'Multi-dimensional electron diffraction of pharmaceuticals'</a>, Monash Centre for Electron Microscopy, Australia, October 2025</li>
-              <li>'4D-STEM and 3D Electron Diffraction in Pharmaceutical Materials', Workshop on the Applications of 4D-STEM, University of Leeds, September 2025</li>
-              <li><a href="https://www.youtube.com/watch?v=VSTNDJBy_ds" target="_blank" rel="noopener">'3D-ED and 4D-STEM as complementary acquisition modalities'</a>, Invited Webinar, Quantum Detectors, March 2025</li>
-              <li>'MicroED in drug discovery and development: challenges and opportunities', Industrial Cryo-Electron Microscopy Pharmaceutical Consortium, Cambridge, UK, October 2024</li>
-              <li>'Scanning Nanobeam Electron Diffraction with 3D Electron Diffraction to Investigate Crystal Defects', Microscopy and Microanalysis Conference, Cleveland, USA, September 2024</li>
-              <li>'A multi-pronged approach incorporating 3D Electron Diffraction for the structure solution of an indomethacin polymorph', International Microscopy Congress, Busan, Korea, September 2023</li>
+              <li><em><a href="https://www.monash.edu/__data/assets/pdf_file/0006/4141680/HWL-Seminar.pdf" target="_blank" rel="noopener">'Multi-dimensional electron diffraction of pharmaceuticals'</a></em>, Monash Centre for Electron Microscopy, Australia, October 2025</li>
+              <li><em>'4D-STEM and 3D Electron Diffraction in Pharmaceutical Materials'</em>, Workshop on the Applications of 4D-STEM, University of Leeds, September 2025</li>
+              <li><em><a href="https://www.youtube.com/watch?v=VSTNDJBy_ds" target="_blank" rel="noopener">'3D-ED and 4D-STEM as complementary acquisition modalities'</a></em>, Invited Webinar, Quantum Detectors, March 2025</li>
+              <li><em>'MicroED in drug discovery and development: challenges and opportunities'</em>, Industrial Cryo-Electron Microscopy Pharmaceutical Consortium, Cambridge, UK, October 2024</li>
+              <li><em>'Scanning Nanobeam Electron Diffraction with 3D Electron Diffraction to Investigate Crystal Defects'</em>, Microscopy and Microanalysis Conference, Cleveland, USA, September 2024</li>
+              <li><em>'A multi-pronged approach incorporating 3D Electron Diffraction for the structure solution of an indomethacin polymorph'</em>, International Microscopy Congress, Busan, Korea, September 2023</li>
             </ul>`
         }
       },
