@@ -110,7 +110,7 @@ const CONTENT = {
         },
         body: {
           en: `
-            <p class="card-text">There's plenty of parallel problems when it comes to manufacturing organic and inorganic materials systems. At <a href="https://www.altrove.ai" target="_blank" rel="noopener" class="card-link">Altrove</a>, a deep-tech AI x Materials startup, I used my crystallography expertise, to develop structure prediction capabilities (to streamline production of rare-earth minerals). This was part of a move to build a virtual lab connecting experimental outputs to the in-house AI model. </p>
+            <p class="card-text">There's plenty of parallel problems when it comes to manufacturing organic and inorganic materials systems. At <a href="https://www.altrove.ai" target="_blank" rel="noopener" class="card-link">Altrove</a>, a deep-tech AI x Materials startup, I built software to automate X-ray diffraction analysis by designing new algorithms and routines. I designed the overarching design pipeline, including where to use human intervention, and where to use automated analysis. This was part of a move to build a virtual lab connecting experimental outputs from novel, newly discovered materials, to the in-house AI model and integrate the new technology to Altrove's existing phase analysis pipeline.</p>
             <div class="pill-row">
               <span class="pill">Crystal Structure Prediction</span>
               <span class="pill">Virtual Lab/AI dev</span>
