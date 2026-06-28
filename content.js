@@ -2,7 +2,7 @@
 const UI = {
   en: {
     navAbout:        'About',
-    navPublications: 'Publications',
+    navPublications: 'Research',
     navWork:         'My Work in Context'
   },
   zh: {
@@ -208,6 +208,8 @@ const CONTENT = {
         preview: { en: 'Nanoscience · Drug Delivery · Materials', zh: '纳米科学 · 药物递送 · 材料' },
         body: {
           en: `
+            <!-- ── PUBLICATIONS SUBHEADING ────────────────────── -->
+            <h2 class="section-subheading">Publications</h2>
             <p class="pub-intro">I've signposted the most exciting takeaways from each paper in a paragraph below. These are my own words, but feel free to use your LLM of choice to explore more.</p>
             <!-- ── FULL PAPER LINKS ───────────────────────────── -->
             <div class="pub-links">
@@ -247,8 +249,18 @@ const CONTENT = {
                 </div>
               </div>
               <p class="pub-footnote">* First author</p>
-            </div>`,
+            </div>
+
+            <!-- ── INVITED TALKS / WEBINARS ───────────────────── -->
+            <h2 class="section-subheading">Invited Talks &amp; Webinars</h2>
+            <ul class="talks-list">
+              <li>Talk title, Event Name, Invited Speaker</li>
+              <li>Talk title, Event Name, Invited Speaker</li>
+              <li>Talk title, Event Name, Invited Speaker</li>
+            </ul>`,
           zh: `
+            <!-- ── PUBLICATIONS SUBHEADING ────────────────────── -->
+            <h2 class="section-subheading">Publications</h2>
             <p class="pub-intro">I've signposted the most exciting takeaways from each paper in a paragraph below. These are my own words — but feel free to use your LLM of choice to explore more! Or feel free to reach out and ask me.</p>
             <!-- ── FULL PAPER LINKS ───────────────────────────── -->
             <div class="pub-links">
@@ -288,7 +300,15 @@ const CONTENT = {
                 </div>
               </div>
               <p class="pub-footnote">* First author</p>
-            </div>`
+            </div>
+
+            <!-- ── INVITED TALKS / WEBINARS ───────────────────── -->
+            <h2 class="section-subheading">Invited Talks &amp; Webinars</h2>
+            <ul class="talks-list">
+              <li>Talk title, Event Name, Invited Speaker</li>
+              <li>Talk title, Event Name, Invited Speaker</li>
+              <li>Talk title, Event Name, Invited Speaker</li>
+            </ul>`
         }
       },
     ]
