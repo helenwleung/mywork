@@ -67,7 +67,7 @@ const CONTENT = {
         badgeImg:   'logos/gsk.png',
         body: {
           en: `
-            <p class="card-text">My PhD also involved working downstream of discovery in drug development. Specifically, I worked on nano-milling processes to enhance slow-release properties of cabotegravir, a long-acting injectable HIV drug.</p>
+            <p class="card-text">My PhD also involved working downstream of discovery in drug development: electron microscopy is a tool, so it can be of use at many points in the value chain, not just drug discovery, if used correctly. Specifically, I worked on nano-milling manufacturing processes to enhance the slow-release properties of cabotegravir, a long-acting injectable HIV drug, through engineering surface-stabilised nano-crystals of the drug.</p>
             <div class="pill-row">
               <span class="pill">Long-Acting Injectables</span>
               <span class="pill">Cabotegravir</span>
