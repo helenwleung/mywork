@@ -96,12 +96,12 @@ const CONTENT = {
           abbr:    'OX',
           label:   { en: 'University of Oxford', zh: '牛津大学' },
           img:     'logos/oxford.png.jpeg',
-          tag:     { en: 'Undergrad and Masters Education', zh: '教育' },
-          title:   { en: 'Materials Engineering', zh: '材料工程' },
+          tag:     { en: 'Research Masters Degree', zh: '教育' },
+          title:   { en: 'AI x Scientific Image Analysis', zh: '材料工程' },
           sublabel:{ en: 'Semiconductors · Analytical techniques · Manufacturing', zh: '半导体 · 分析技术 · 制造' },
           body: {
             en: `
-              <p class="card-text">First-class MEng from Oxford, specialising in analytical techniques in semiconductors for transistors. Developed expertise in advanced manufacturing techniques across semiconductors and pharmaceuticals alike. Developed convolutional neural network to analyse experimental data.</p>
+              <p class="card-text">I spent a year in the Electron Image Analysis Group, building a convolutional neural network (CNN) to analyse electron micrographs to track the growth of defects in 2D semiconductors (molybdenum disulphide), critical for controlling its functional properties. The CNN I built compressed 2 Tb of data analysis (which would have taken thousands of hours for humans to label) into several minutes of model work. Experimental techniques are increasingly generating massive volumes of data; meaningful data analysis is the bottleneck which requires both domain expertise and AI literacy, as demonstrated by this research.</p>
               <div class="pill-row">
                 <span class="pill">Nanoengineering</span>
               </div>`,
