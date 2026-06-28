@@ -254,7 +254,7 @@ const CONTENT = {
             <!-- ── INVITED TALKS / WEBINARS ───────────────────── -->
             <h2 class="section-subheading">Invited Talks &amp; Webinars</h2>
             <ul class="talks-list">
-              <li>'Multi-dimensional electron diffraction of pharmaceuticals', Monash Centre for Electron Microscopy, Australia, October 2025</li>
+              <li><a href="https://www.monash.edu/__data/assets/pdf_file/0006/4141680/HWL-Seminar.pdf" target="_blank" rel="noopener">'Multi-dimensional electron diffraction of pharmaceuticals'</a>, Monash Centre for Electron Microscopy, Australia, October 2025</li>
               <li>'4D-STEM and 3D Electron Diffraction in Pharmaceutical Materials', Workshop on the Applications of 4D-STEM, University of Leeds, September 2025</li>
               <li><a href="https://www.youtube.com/watch?v=VSTNDJBy_ds" target="_blank" rel="noopener">'3D-ED and 4D-STEM as complementary acquisition modalities'</a>, Invited Webinar, Quantum Detectors, March 2025</li>
               <li>'Scanning Nanobeam Electron Diffraction with 3D Electron Diffraction to Investigate Crystal Defects', Microscopy and Microanalysis Conference, Cleveland, USA, September 2024</li>
@@ -307,7 +307,7 @@ const CONTENT = {
             <!-- ── INVITED TALKS / WEBINARS ───────────────────── -->
             <h2 class="section-subheading">Invited Talks &amp; Webinars</h2>
             <ul class="talks-list">
-              <li>'Multi-dimensional electron diffraction of pharmaceuticals', Monash Centre for Electron Microscopy, Australia, October 2025</li>
+              <li><a href="https://www.monash.edu/__data/assets/pdf_file/0006/4141680/HWL-Seminar.pdf" target="_blank" rel="noopener">'Multi-dimensional electron diffraction of pharmaceuticals'</a>, Monash Centre for Electron Microscopy, Australia, October 2025</li>
               <li>'4D-STEM and 3D Electron Diffraction in Pharmaceutical Materials', Workshop on the Applications of 4D-STEM, University of Leeds, September 2025</li>
               <li><a href="https://www.youtube.com/watch?v=VSTNDJBy_ds" target="_blank" rel="noopener">'3D-ED and 4D-STEM as complementary acquisition modalities'</a>, Invited Webinar, Quantum Detectors, March 2025</li>
               <li>'Scanning Nanobeam Electron Diffraction with 3D Electron Diffraction to Investigate Crystal Defects', Microscopy and Microanalysis Conference, Cleveland, USA, September 2024</li>
