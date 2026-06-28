@@ -254,9 +254,11 @@ const CONTENT = {
             <!-- ── INVITED TALKS / WEBINARS ───────────────────── -->
             <h2 class="section-subheading">Invited Talks &amp; Webinars</h2>
             <ul class="talks-list">
-              <li>Talk title, Event Name, Invited Speaker</li>
-              <li>Talk title, Event Name, Invited Speaker</li>
-              <li>Talk title, Event Name, Invited Speaker</li>
+              <li>'Multi-dimensional electron diffraction of pharmaceuticals', Monash Centre for Electron Microscopy, Australia, October 2025</li>
+              <li>'4D-STEM and 3D Electron Diffraction in Pharmaceutical Materials', Workshop on the Applications of 4D-STEM, University of Leeds, September 2025</li>
+              <li><a href="https://www.youtube.com/watch?v=VSTNDJBy_ds" target="_blank" rel="noopener">'3D-ED and 4D-STEM as complementary acquisition modalities'</a>, Invited Webinar, Quantum Detectors, March 2025</li>
+              <li>'Scanning Nanobeam Electron Diffraction with 3D Electron Diffraction to Investigate Crystal Defects', Microscopy and Microanalysis Conference, Cleveland, USA, September 2024</li>
+              <li>'A multi-pronged approach incorporating 3D Electron Diffraction for the structure solution of an indomethacin polymorph', International Microscopy Congress, Busan, Korea, September 2023</li>
             </ul>`,
           zh: `
             <!-- ── PUBLICATIONS SUBHEADING ────────────────────── -->
@@ -305,9 +307,11 @@ const CONTENT = {
             <!-- ── INVITED TALKS / WEBINARS ───────────────────── -->
             <h2 class="section-subheading">Invited Talks &amp; Webinars</h2>
             <ul class="talks-list">
-              <li>Talk title, Event Name, Invited Speaker</li>
-              <li>Talk title, Event Name, Invited Speaker</li>
-              <li>Talk title, Event Name, Invited Speaker</li>
+              <li>'Multi-dimensional electron diffraction of pharmaceuticals', Monash Centre for Electron Microscopy, Australia, October 2025</li>
+              <li>'4D-STEM and 3D Electron Diffraction in Pharmaceutical Materials', Workshop on the Applications of 4D-STEM, University of Leeds, September 2025</li>
+              <li><a href="https://www.youtube.com/watch?v=VSTNDJBy_ds" target="_blank" rel="noopener">'3D-ED and 4D-STEM as complementary acquisition modalities'</a>, Invited Webinar, Quantum Detectors, March 2025</li>
+              <li>'Scanning Nanobeam Electron Diffraction with 3D Electron Diffraction to Investigate Crystal Defects', Microscopy and Microanalysis Conference, Cleveland, USA, September 2024</li>
+              <li>'A multi-pronged approach incorporating 3D Electron Diffraction for the structure solution of an indomethacin polymorph', International Microscopy Congress, Busan, Korea, September 2023</li>
             </ul>`
         }
       },
