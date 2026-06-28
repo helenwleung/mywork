@@ -29,7 +29,7 @@ const CONTENT = {
       zh: '从靶点识别到商业投资。'
     },
     intro: {
-      en: 'The life sciences ecosystem has multiple stages and stakeholders. I\'ve had the opportunity to work at various stages in the pipeline, visualised below.',
+      en: 'The life sciences ecosystem has multiple stages and stakeholders. I\'ve had the opportunity to work at various stages in the value chain, visualised below.',
       zh: '生命科学生态系统涵盖多个阶段与利益相关者。凭借我的工程学背景，我有幸参与了管线中的多个环节。'
     },
 
@@ -47,8 +47,7 @@ const CONTENT = {
         badgeImg:   'logos/cambridge.png.webp',
         body: {
           en: `
-            <p class="card-text">During my PhD in Electron Microscopy at Cambridge University, I worked with GSK and discovered 5 small molecule crystal structures. Crystallography is used during discovery to determine structrue-activity relationships in biological targets.
-            Find my publications <a class="card-link" href="#" onclick="openAboutCard(1); return false;">here</a>.</p>
+            <p class="card-text">Cryo-electron microscopy won the Nobel Prize in 2017, and AlphaFold in 2024 for work in protein crystal structures. I've been fortunate to work at the heart of the academic centre which powered these breakthroughs: at Cambridge on electron microscopy for crystallography. Throughout my research, I've contributed new structures to the major databases which store our collective knowledge — namely the Cambridge Crystallographic Database and Protein Databank. Structure-activity relationships are key to determining how drugs will behave. Electron microscopy techniques now regularly generate large volumes of data in short amounts of time — analysis of this data is becoming the bottleneck. A large part of my research was developing algorithms to streamline this analysis, applying different AI architectures to create decision-ready outputs.</p>
             <div class="pill-row">
               <span class="pill">Pharmaceutical Crystallography</span>
               <span class="pill">Cryo-EM</span>
