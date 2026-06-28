@@ -86,7 +86,7 @@ const CONTENT = {
       },
       {
         tag:        { en: 'AI x Materials Developer at Altrove (EF-backed startup)', zh: 'AI与材料' },
-        title:      { en: 'Manufacturing', zh: '制造' },
+        title:      { en: 'AI x Materials Manufacturing', zh: '制造' },
         sublabel:   { en: 'Making manufacturing smarter', zh: '晶体结构预测 · 虚拟实验室 · 稀土矿物' },
         badgeAbbr:  'ALT',
         badgeLabel: { en: 'Altrove', zh: 'Altrove' },
