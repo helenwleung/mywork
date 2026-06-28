@@ -29,7 +29,7 @@ const CONTENT = {
       zh: '从靶点识别到商业投资。'
     },
     intro: {
-      en: 'The life sciences ecosystem has multiple stages and stakeholders. I\'ve had the opportunity to work at various stages in the value chain, visualised below.',
+      en: 'I\'ve had the opportunity to work at various stages in the life sciences value chain such as: applying AI and advanced analytical techniques for crystal structure prediction in drug discovery at GSK; creation of automated analysis pipelines of novel materials synthesis at Altrove; and R&D strategy consulting for biopharmaceutical and technology companies at L.E.K. Consulting.',
       zh: '生命科学生态系统涵盖多个阶段与利益相关者。凭借我的工程学背景，我有幸参与了管线中的多个环节。'
     },
 
@@ -67,7 +67,7 @@ const CONTENT = {
         badgeImg:   'logos/gsk.png',
         body: {
           en: `
-            <p class="card-text">My PhD also involved working downstream of discovery in drug development: electron microscopy is a tool, so it can be of use at many points in the value chain, not just drug discovery, if used correctly. Specifically, I worked on nano-milling manufacturing processes to enhance the slow-release properties of cabotegravir, a long-acting injectable HIV drug, through engineering surface-stabilised nano-crystals of the drug.</p>
+            <p class="card-text">My PhD also involved working downstream of discovery in drug development: electron microscopy is a tool, so it can be of use at many points in the value chain, not just drug discovery. Specifically, I worked on nano-milling manufacturing processes to enhance the slow-release properties of cabotegravir, a long-acting injectable HIV drug, through engineering surface-stabilised nano-crystals of the drug.</p>
             <div class="pill-row">
               <span class="pill">Long-Acting Injectables</span>
               <span class="pill">Cabotegravir</span>
@@ -183,7 +183,7 @@ const CONTENT = {
     eyebrow:  { en: 'About Me', zh: '关于我' },
     headline: { en: '', zh: '' },
     tagline: {
-      en: "Hi, I'm Helen! I'm a materials scientist specialising in analytical characterisation techniques, specifically, electron microscopy. Through my research, I have developed novel workflows to show how 'big-data' experiments can be harnessed into decision-ready outputs for biopharma R&D (at GSK) and materials synthesis (at Altrove). I now work in biopharma R&D strategy consulting at L.E.K..",
+      en: "Hi, I'm Helen! I'm a materials scientist specialising in analytical characterisation techniques, specifically, electron microscopy. Through my research, I have developed novel workflows to show how 'big-data' experiments can be harnessed into decision-ready outputs for biopharma R&D (at GSK) and materials synthesis (at Altrove). I now work in biopharma R&D strategy consulting at L.E.K. Consulting.",
       zh: '你好！我是Helen。我是华裔,来自英国。牛津大学材料工程硕士，剑桥大学材料工程博士。致力于促进中西方生命科学领域的交流与合作。'
     },
     cards: [
@@ -220,7 +220,7 @@ const CONTENT = {
                 <p class="pub-link-author"><u>Helen W. Leung*</u> et al. · Communications Chemistry, 2025 <span class="nature-badge">Nature Portfolio</span></p>
                 <button class="pub-toggle" onclick="togglePubSummary(this)" aria-expanded="false">↓ Read my (non-technical) key takeaways</button>
                 <div class="pub-expand">
-                <p class="pub-summary">After having discovered the crystal structure of xanthine in my previous paper, this paper goes on to discover more polymorphs of xanthine (see my indomethacin paper for context on polymorphs). Not only do I find more forms of this fundamental molecule, I crucially show that it is possible to have multiple polymorphs within a single nano-crystal of xanthine. This matters because of how drugs are currently regulated by the ICH Q guidelines (legislation for good practice in drug development). It turns out that molecules which have a planar structure, like xanthine, can easily switch in and out between polymorphic forms on the nanoscale. Therefore, defining what a polymorph is- and the associated physicochemical properties such as solubility for small molecule drugs- is more complicated than previously thought.</p>
+                <p class="pub-summary">After having discovered the crystal structure of xanthine in my previous paper, this paper goes on to discover more polymorphs of xanthine (see my indomethacin paper for context on polymorphs). Not only do I find more forms of this fundamental molecule, I crucially show that it is possible to have multiple polymorphs within a single nano-crystal of xanthine. This matters because of how drugs are currently regulated by the ICHQ guidelines (legislation for good practice in drug development). It turns out that molecules which have a planar structure, like xanthine, can easily switch in and out between polymorphic forms on the nanoscale. Therefore, defining what a polymorph is- and the associated physicochemical properties such as solubility for small molecule drugs- is more complicated than previously thought.</p>
                 <img class="pub-link-preview" src="figures/Leung_xanthinepaper2.png" alt="Xanthine polytypes paper figure" loading="lazy">
                 </div>
               </div>
@@ -274,7 +274,7 @@ const CONTENT = {
                 <p class="pub-link-author"><u>Helen W. Leung*</u> et al. · Communications Chemistry, 2025 <span class="nature-badge">Nature Portfolio</span></p>
                 <button class="pub-toggle" onclick="togglePubSummary(this)" aria-expanded="false">↓ Read my (non-technical) key takeaways</button>
                 <div class="pub-expand">
-                <p class="pub-summary">After having discovered the crystal structure of xanthine in my previous paper, this paper goes on to discover more polymorphs of xanthine (see my indomethacin paper for context on polymorphs). Not only do I find more forms of this fundamental molecule, I crucially show that it is possible to have multiple polymorphs within a single nano-crystal of xanthine. This matters because of how drugs are currently regulated by the ICH Q guidelines (legislation for good practice in drug development). It turns out that molecules which have a planar structure, like xanthine, can easily switch in and out between polymorphic forms on the nanoscale. Therefore, defining what a polymorph is— and the associated physicochemical properties such as solubility for small molecule drugs- is more complicated than previously thought.</p>
+                <p class="pub-summary">After having discovered the crystal structure of xanthine in my previous paper, this paper goes on to discover more polymorphs of xanthine (see my indomethacin paper for context on polymorphs). Not only do I find more forms of this fundamental molecule, I crucially show that it is possible to have multiple polymorphs within a single nano-crystal of xanthine. This matters because of how drugs are currently regulated by the ICHQ guidelines (legislation for good practice in drug development). It turns out that molecules which have a planar structure, like xanthine, can easily switch in and out between polymorphic forms on the nanoscale. Therefore, defining what a polymorph is— and the associated physicochemical properties such as solubility for small molecule drugs- is more complicated than previously thought.</p>
                 <img class="pub-link-preview" src="figures/Leung_xanthinepaper2.png" alt="Xanthine polytypes paper figure" loading="lazy">
                 </div>
               </div>
