@@ -194,9 +194,9 @@ const CONTENT = {
           en: `
             <p class="card-text">I am an expert in analytical characterisation techniques for any innovation that requires working at the nanoscale. A first-class graduate (MEng) from Oxford, I spent my masters year researching convolutional neural networks (CNN) for atomic-resolution image analysis; streamlining analysis of several terabytes worth of electron micrographs into several minutes of CNN work. I then moved to Cambridge for a GSK-sponsored PhD: a switch to biopharma R&amp;D. The common link here is the use of 'big data' analytical chemistry techniques: specifically, electron microscopy. The highlight of my research was using cryo-electron microscopy (where terabytes of data can be generated in one afternoon) to predict and validate the crystal structures of new drugs. The highlight application of my work was to nano-engineer the slow-release properties of a long-acting injectable HIV drug (cabotegravir) using multi-dimensional electron diffraction. You can find out more by taking a look at my publications. I have since moved to life sciences biopharma R&amp;D strategy at L.E.K. Consulting. In this role, I have a great overview of the entire biopharma value chain, the different stakeholders, and how the technologies I specialise in enable new breakthroughs in healthcare.</p>
             <div class="pill-row">
-              <span class="pill">Pharmaceutical Strategy</span>
-              <span class="pill">M&A Due Diligence</span>
-              <span class="pill">New Drug Modalities</span>
+              <span class="pill">Biopharma R&amp;D</span>
+              <span class="pill">AI x Experimental Data</span>
+              <span class="pill">Structure-based Drug Design</span>
             </div>`,
           zh: `
             <p class="card-text">我毕业于牛津大学，主修材料工程(本科和硕士)。之后我前往剑桥大学攻读博士学位，专攻生物材料工程。我写过几篇期刊文章，可以在Google Scholar上阅读。我现在为制药公司工作，负责制定战略，例如如何推出一款新药。</p>`
